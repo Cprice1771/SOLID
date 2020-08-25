@@ -1,0 +1,13 @@
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.exe
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.deps.json
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.runtimeconfig.json
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.runtimeconfig.dev.json
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.dll
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\bin\Debug\netcoreapp3.1\LiskovExample.pdb
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.AssemblyInfoInputs.cache
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.AssemblyInfo.cs
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.csproj.CoreCompileInputs.cache
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.dll
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.pdb
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.genruntimeconfig.cache
+C:\Users\Cprice\source\repos\SOLIDExamples\LiskovExample\obj\Debug\netcoreapp3.1\LiskovExample.csprojAssemblyReference.cache

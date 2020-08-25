@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidExamples", "SolidExamples\SolidExamples.csproj", "{03861CD8-148A-41D9-B4E4-41F1783BC460}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolidExamples", "SolidExamples\SolidExamples.csproj", "{03861CD8-148A-41D9-B4E4-41F1783BC460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovExample", "LiskovExample\LiskovExample.csproj", "{30F93FAD-19E7-4F3B-96C9-D58A0A58D6B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{03861CD8-148A-41D9-B4E4-41F1783BC460}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03861CD8-148A-41D9-B4E4-41F1783BC460}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03861CD8-148A-41D9-B4E4-41F1783BC460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F93FAD-19E7-4F3B-96C9-D58A0A58D6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F93FAD-19E7-4F3B-96C9-D58A0A58D6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F93FAD-19E7-4F3B-96C9-D58A0A58D6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F93FAD-19E7-4F3B-96C9-D58A0A58D6B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
